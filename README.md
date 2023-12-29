@@ -25,7 +25,7 @@ Existing datasets for RGB-DVS tracking are collected with DVS346 camera and thei
 
 
 
-### Framework 
+# :triangular_flag_on_post: Framework 
 <p align="center">
   <img src="https://github.com/Event-AHU/Cross_Resolution_SOT/blob/main/figures/framework_CRSOT.jpg" alt="framework_CRSOT.jpg" width="800"/>
   </a>
