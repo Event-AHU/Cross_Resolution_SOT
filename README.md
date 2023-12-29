@@ -17,7 +17,7 @@
 Existing datasets for RGB-DVS tracking are collected with DVS346 camera and their resolution ($346 \times 260$) is low for practical applications. Actually, only visible cameras are deployed in many practical systems, and the newly designed neuromorphic cameras may have different resolutions. The latest neuromorphic sensors can output high-definition event streams, but it is very difficult to achieve strict alignment between events and frames on both spatial and temporal views. Therefore, how to achieve accurate tracking with unaligned neuromorphic and visible sensors is a valuable but unresearched problem. In this work, we formally propose the task of object tracking using unaligned neuromorphic and visible cameras. We build the first unaligned frame-event dataset CRSOT collected with a specially built data acquisition system, which contains 1,030 high-definition RGB-Event video pairs, 304,974 video frames. In addition, we propose a novel unaligned object tracking framework that can realize robust tracking even using the loosely aligned RGB-Event data. Specifically, we extract the template and search regions of RGB and Event data and feed them into a unified ViT backbone for feature embedding. Then, we propose uncertainty perception modules to encode the RGB and Event features, respectively, then, we propose a modality uncertainty fusion module to aggregate the two modalities. These three branches are jointly optimized in the training phase. Extensive experiments demonstrate that our tracker can collaborate the dual modalities for high-performance tracking even without strictly temporal and spatial alignment.
 
 <p align="center">
-  <img src="https://github.com/Event-AHU/Cross_Resolution_SOT/blob/main/figures/crsot_device.jpg" alt="DemoVideo" width="800"/>
+  <img src="https://github.com/Event-AHU/Cross_Resolution_SOT/blob/main/figures/crsot_device.jpg" alt="crsot_device" width="800"/>
   </a>
 </p> 
 
@@ -25,7 +25,10 @@ Existing datasets for RGB-DVS tracking are collected with DVS346 camera and thei
 
 
 ### Framework 
-
+<p align="center">
+  <img src="https://github.com/Event-AHU/Cross_Resolution_SOT/blob/main/figures/framework_CRSOT.jpg" alt="framework_CRSOT.jpg" width="800"/>
+  </a>
+</p> 
 
 
 
