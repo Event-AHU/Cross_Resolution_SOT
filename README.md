@@ -16,6 +16,13 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/Event-AHU/Cross_Resolution_SOT/blob/main/figures/crsot_device.jpg" alt="DemoVideo" width="800"/>
+  </a>
+</p> 
+
+
+
 
 ### Framework 
 
