@@ -12,10 +12,6 @@
 
 
 
-# Cross_Resolution_SOT 
-
-
-
 ### Abstract
 
 
