@@ -84,18 +84,18 @@ TO BE UPDATED ...
 
 # :newspaper: Citation 
   If you find this work useful for your research, please cite the following papers: 
-      ```bibtex
-      @misc{zhu2024crsot,
-      title={CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras}, 
-      author={Yabin Zhu and Xiao Wang and Chenglong Li and Bo Jiang and Lin Zhu and Zhixiang Huang and Yonghong Tian and Jin Tang},
-      year={2024},
-      eprint={2401.02826},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-      ```
+```bibtex
+@misc{zhu2024crsot,
+  title={CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras}, 
+  author={Yabin Zhu and Xiao Wang and Chenglong Li and Bo Jiang and Lin Zhu and Zhixiang Huang and Yonghong Tian and Jin Tang},
+  year={2024},
+  eprint={2401.02826},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+    }
+```
 
-  Please leave an issue, if you have any questions about this work. 
+Please leave an issue, if you have any questions about this work. 
 
 
 
