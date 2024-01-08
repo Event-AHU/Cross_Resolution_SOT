@@ -11,7 +11,7 @@
 
 
 # :collision: Update Log 
-* [2023.12.30] arXiv paper, dataset, pre-trained models, and benchmark results are all released [[arXiv]()]
+* [2024.01.08] arXiv paper and dataset are all released [[arXiv](https://arxiv.org/abs/2401.02826)] 
 
 
 # :dart: Abstract 
