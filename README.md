@@ -70,9 +70,7 @@ TO BE UPDATED ...
 
 # :cupid: Acknowledgement 
 
-[[**OSTrack**](https://github.com/botaoye/OSTrack)]  
-[[**CEUTrack**](https://github.com/Event-AHU/COESOT)]  
-[[**VisEvent**](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
+[[**OSTrack**](https://github.com/botaoye/OSTrack)]  [[**CEUTrack**](https://github.com/Event-AHU/COESOT)]  [[**VisEvent**](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
 
 
 # :newspaper: License 
