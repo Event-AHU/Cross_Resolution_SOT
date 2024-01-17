@@ -38,7 +38,7 @@ Existing datasets for RGB-DVS tracking are collected with DVS346 camera and thei
 
 
 
-# :hammer: Training and Testing
+# :hourglass: Training and Testing 
 
 
 
