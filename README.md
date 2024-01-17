@@ -11,6 +11,7 @@
 
 
 # :collision: Update Log 
+
 * [2024.01.08] arXiv paper and dataset are all released [[arXiv](https://arxiv.org/abs/2401.02826)] [[Baidu-Disk](https://github.com/Event-AHU/Cross_Resolution_SOT/blob/main/README.md#dvd-crsot-dataset-download)]
 
 
