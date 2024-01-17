@@ -9,6 +9,11 @@
 </p>
 </div>
 
+> "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826 (2024).
+[[arXiv](https://arxiv.org/abs/2401.02826)] 
+
+
+
 
 # :collision: Update Log 
 
