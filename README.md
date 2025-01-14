@@ -9,13 +9,16 @@
 </p>
 </div>
 
-> "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826 (2024).
+> "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. IEEE Transactions on Multimedia, 2025 
 [[arXiv](https://arxiv.org/abs/2401.02826)] 
-
+[[IEEE (To be Updated)]()] 
 
 
 
 # :collision: Update Log 
+
+
+* [2025.01.14] CRSOT is accepted by IEEE Transactions on Multimedia 2025!
 
 * [2024.01.08] arXiv paper and dataset are all released [[arXiv](https://arxiv.org/abs/2401.02826)] [[Baidu-Disk](https://github.com/Event-AHU/Cross_Resolution_SOT/blob/main/README.md#dvd-crsot-dataset-download)]
 
