@@ -43,13 +43,24 @@ Existing datasets for RGB-DVS tracking are collected with DVS346 camera and thei
 
 
 # :hammer: Environment 
+* Load OSTrack pre-train model and run the following command to train the network.
+  ```
+  NCCL_P2P_LEVEL=NVL CUDA_VISIBLE_DEVICES=0,4 python tracking/train.py --script ostrack_twobranch --config vitb_256_mae_ce_32x4_ep300 --save_dir ./output --mode multiple --nproc_per_node 2
+  ```
+* Run the following command to test the network.  
+  ```
+  CUDA_VISIBLE_DEVICES=5 python tracking/test.py ostrack_twobranch vitb_256_mae_ce_32x4_ep300 --dataset crsot --thread 4
+  ```
+* For other environment configurations, please refer to the following link.
+  ```
+  https://github.com/botaoye/OSTrack
+  ``` 
+# :star: Tracking Model
 
-
-
-
-# :hourglass: Training and Testing 
-
- 
+```
+link: https://pan.baidu.com/s/12YImQcCnS2mqFN-4q4LNOg?pwd=cret 
+extraction code: cret 
+``` 
 
 # :chart_with_upwards_trend: Evaluation Code and Tracking Results
 :floppy_disk: **Benchmark: Download from Baidu Disk:** 
